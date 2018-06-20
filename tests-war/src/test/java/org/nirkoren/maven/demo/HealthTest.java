@@ -16,7 +16,7 @@ public class HealthTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
-		appurl = TomcatPropsHandler.getAppurl();
+	  appurl = TomcatPropsHandler.getAppurl();
 	}
 
 
